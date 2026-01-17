@@ -38,5 +38,5 @@ I enjoy transforming ideas into production-ready systems where performance, secu
 ---
 
 ### 📫 Contact
-- Discord: **quazer**
-- Instagram: **quazer**
+- Discord: **quazerones**
+- Instagram: **quazerx**
