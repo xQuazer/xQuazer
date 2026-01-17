@@ -37,15 +37,6 @@ I enjoy transforming ideas into production-ready systems where performance, secu
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xQuazer&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xQuazer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contact
 - Discord: **quazer**
 - Instagram: **quazer**
